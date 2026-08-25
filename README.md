@@ -23,6 +23,13 @@ The analysis was designed to answer the following business questions:
 5. Which products are the most profitable?
 6. What trends can be observed over time?
 7. What recommendations should management implement to improve business performance?
+8. What is driving sales performance?
+9. What is affecting profitability?
+10. Which products or categories are underperforming?
+11. Which regions or markets provide growth opportunities?
+12. Are discounts affecting profitability?
+13. Which customer segments are most valuable?
+14. What actions should the organisation consider? 
 
 ---
 
