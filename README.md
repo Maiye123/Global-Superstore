@@ -4,6 +4,8 @@
 
 This project analyses the Global Superstore dataset to understand the company's sales performance, profitability, customer segments, product performance, regional performance and operational efficiency.
 
+It was updated to capture more business questions that was missed in the previous analysis.
+
 The project was developed as a Business Intelligence and Data Analytics project using Microsoft Power BI, with supporting analysis and documentation completed using Microsoft Excel, Microsoft Word and Microsoft PowerPoint.
 
 The goal was to transform raw transactional data into an interactive dashboard that can help management understand business performance, identify areas of concern and make data-driven decisions.
